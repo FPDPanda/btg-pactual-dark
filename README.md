@@ -40,7 +40,7 @@ Got some ideas to make this theme even better? We'd love your contributions!
 
 ## Feedback
 
-We’d love to hear your thoughts! Drop us a review or open an issue on our (TODO) [GitHub repository](https://github.com/yourusername/btg-pactual-vscode-theme).
+We’d love to hear your thoughts! Drop us a review or open an issue on our [GitHub repository](https://github.com/FPDPanda/btg-pactual-dark).
 
 ## Special Thanks
 

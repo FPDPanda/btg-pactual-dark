@@ -10,3 +10,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Initial release
+
+## 0.1.0
+
+### Added
+
+- Theme colors using BTG Pactual palette
+- Example Image
+
+### Changed
+
+- Replaced URL on README repository link
+- Replaced example image on README file
