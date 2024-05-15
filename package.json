@@ -1,0 +1,38 @@
+{
+  "name": "btg-pactual-dark",
+  "displayName": "BTG Pactual Dark",
+  "description": "BTG Pactual dark color theme",
+  "version": "0.0.1",
+  "publisher": "JeanOuteiral",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "dark",
+    "theme",
+    "dark theme",
+    "Jean Outeiral",
+    "Pactual",
+    "Pactual dark",
+    "BTG",
+    "BTG Dark",
+    "BTG Pactual",
+    "BTG Pactual Dark"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BTG Pactual Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BTG Pactual Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
